@@ -1,0 +1,2 @@
+1: I'm learning Python today.
+2: I had some hot cocoa today.
